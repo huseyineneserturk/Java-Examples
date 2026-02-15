@@ -17,20 +17,13 @@ This repository contains practical Java examples ranging from basic automation t
 ## Projects
 
 ### 🎮 Basic Game Panel
-A simple game panel implementation demonstrating Java Swing GUI basics and game loop fundamentals.
+A simple game panel implementation demonstrating Java basics fundamentals.
 
 **Key Concepts:**
-- Java Swing components
-- Graphics rendering
-- Event handling
+- Just basic condition elements
 
 ### 🤖 Basic Worker Automation
-An automation example showcasing task scheduling and worker thread management.
-
-**Key Concepts:**
-- Thread management
-- Task automation
-- Concurrency
+A simple worker system.
 
 ### ☕ Coffee Machine Simulator
 A console-based coffee machine simulator with state management and user interaction.
