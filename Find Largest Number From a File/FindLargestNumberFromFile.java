@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class FindLargestNumberFromFile{
     public static void main (String[] args){
-        String path = "C:\\Users\\husey\\Downloads\\dataset_91007.txt";
+        String path = ".\dataset_91007.txt";
         File file = new File(path);
         
         int bigNumber = Integer.MIN_VALUE;
